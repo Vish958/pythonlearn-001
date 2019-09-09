@@ -23,4 +23,4 @@ try:
     p = computepay(hour,rate)
     print p
 except:
-    print "Please,input your numberic"
+    print "Please,input your numeric"
